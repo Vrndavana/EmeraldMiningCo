@@ -18,7 +18,12 @@ return(
    <div class='Home'>
      <div>
         <h1 class='Hello'> ABOUT </h1>
-        <h4>This Site Is Under Construction</h4>    
+        <h4>This Site Is Under Construction</h4>
+        <h3>Twitter</h3> 
+        <h3>Insta</h3>    
+        <h3>Facebook</h3>    
+        <h3>Reddit</h3>    
+   
       </div>
    </div>
 
