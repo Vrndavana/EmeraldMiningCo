@@ -8,7 +8,9 @@ function About() {
 return(
   <div>
       <Nav>
-        <Link to='/' id="asd">            HOME          </Link>
+        <Link to='/' id="sasd">            HOME          </Link>
+        <Link to='/Projects' id="asd">            PROJECTS        </Link>
+
       </Nav>
     
     
